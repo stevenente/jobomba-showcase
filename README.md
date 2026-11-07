@@ -1,6 +1,6 @@
 # Jobomba
 
-A job-search workspace for keeping opportunities, contacts, interview preparation and next steps together.
+A job-search workspace created and led by Steven Ente to keep opportunities, contacts, interview preparation and next steps together.
 
 This repository presents the project through screenshots and a short overview. The working application and its source remain private.
 
@@ -32,7 +32,13 @@ Development includes automated regression checks and fictional browser scenarios
 
 ## My role and development approach
 
-I set the product direction and make scope and release decisions. I use AI coding assistants to support implementation, debugging, regression testing and documentation.
+I created Jobomba and lead its product development, from defining the problem and setting the vision to guiding its private beta. My work includes:
+
+- Shaping the user experience and choosing which job-search problems and features to tackle.
+- Prioritizing improvements, reviewing tradeoffs, and making scope and release decisions.
+- Coordinating beta access and feedback, with attention to privacy, reliability, and keeping users in control of their data.
+
+I use AI coding assistants to support implementation, debugging, regression testing and documentation. I direct the work and make the product decisions.
 
 ## Current status
 
